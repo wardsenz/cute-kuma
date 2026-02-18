@@ -11,6 +11,8 @@
   <a href="#installation">Installation</a>
   ·
   <a href="#personalization">Personalization</a>
+  ·
+  <a href="#community-themes">Community Themes</a>
 </p>
 
 <p>
@@ -69,8 +71,9 @@ The refresh timer is hidden by default. To make it visible again, find the `.ref
 
 This section holds links to themes supported by the community.
 
-### @wassupluke/uptimekuma-themes
+### [Aurora](https://github.com/wassupluke/uptimekuma-themes) by [wassupluke](https://github.com/wassupluke)
 
-#### Aurora
-
-![Screenshot of Aurora Theme for UptimeKuma](https://github.com/dermv/cute-kuma/tree/main/.github/assets/community/wassupluke/aurora.png)
+<details>
+  <summary>Preview</summary>
+  <img alt="Aurora Theme" src="./.github/assets/community/wassupluke/aurora.png"> 
+</details>
