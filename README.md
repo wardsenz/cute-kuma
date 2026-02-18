@@ -64,3 +64,13 @@ By default, 2 columns are shown on wide screens. If you prefer a single column e
 ### Restoring the Refresh Timer
 
 The refresh timer is hidden by default. To make it visible again, find the `.refresh-info` rule and remove or comment out the `display: none;` line.
+
+## Community Themes
+
+This section holds links to themes supported by the community.
+
+### @wassupluke/uptimekuma-themes
+
+#### Aurora
+
+![Screenshot of Aurora Theme for UptimeKuma](https://github.com/dermv/cute-kuma/tree/main/.github/assets/community/wassupluke/aurora.png)
